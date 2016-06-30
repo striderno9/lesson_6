@@ -44,5 +44,12 @@ if (johnny > 10) {
 	alert("Johnny is less than ten!");
 }
 
+var jason = "student";
+
+if (jason === "human") {
+	alert("Jason is a student!");
+} else {
+	alert("Jason is not just a student, he's a human");
+}
 
 
