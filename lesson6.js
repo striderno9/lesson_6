@@ -52,4 +52,12 @@ if (jason === "human") {
 	alert("Jason is not just a student, he's a human");
 }
 
+var x = 25;
+
+if (x <= 55) {
+	alert("25 is tiny");
+
+} else {
+	alert("25 is huge");
+}
 
