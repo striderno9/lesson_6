@@ -1,3 +1,46 @@
+function stuff(needs) {
+	console.log("all I want is " + needs);
+}
+
+stuff("water");
+stuff("sleep");
+
+
+
+
+// function greetMe(name) {
+// return alert("hello " + name);
+// } 
+
+// greetMe("smalltalk");
+// greetMe("judy");
+
+
+
+// function addTwoNumbers(x,y) {
+// return x + y;	
+// }
+
+// var result = addTwoNumbers(5, 6);
+
+// console.log(result);             //same
+// console.log(addTwoNumbers(5,6)); //same
+
+
+
+// var door = 2;
+
+// if (door ===1) {
+// alert("tiget");
+// } else if (door ===2) {
+// alert("polar seltzer");
+// } else if (door ===3) {
+// alert("brand new car");
+// } else {
+// alert("what are you doing?");
+// }
+
+
 // console.log("hello world");
 // alert("hello world");
 
@@ -34,30 +77,29 @@
 // 	alert("go to welche's grape jusice site instead");
 // }
 
+// var johnny = 11;
 
+// if (johnny > 10) {
+// 	alert("Johnny is " + johnny + " and that is greater than ten!");
+// } else {
+// 	alert("Johnny is less than ten!");
+// }
 
-var johnny = 11;
+// var jason = "student";
 
-if (johnny > 10) {
-	alert("Johnny is 11 and that is greater than ten!");
-} else {
-	alert("Johnny is less than ten!");
-}
+// if (jason === "human") {
+// 	alert("Jason is a student!");
+// } else {
+// 	alert("Jason is not just a student, he's a human");
+// }
 
-var jason = "student";
+// var x = 25;
 
-if (jason === "human") {
-	alert("Jason is a student!");
-} else {
-	alert("Jason is not just a student, he's a human");
-}
+// if (x <= 55) {
+// 	alert("25 is tiny");
 
-var x = 25;
+// } else {
+// 	alert("25 is huge");
+// }
 
-if (x <= 55) {
-	alert("25 is tiny");
-
-} else {
-	alert("25 is huge");
-}
 
